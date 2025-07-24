@@ -1,7 +1,6 @@
 # 📖 GitaGraph: Unveiling Connections in the Bhagavad Gita with NLP and Graph Neural Networks
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 > 📘 Final Semester MCA Project | National Institute of Technology Jamshedpur  
