@@ -94,10 +94,6 @@ jupyter notebook BhagwadGita.ipynb
 - Build a web app using Streamlit or Flask
 - Integrate with full Mahabharata character graph
 
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use, adapt, and share!
-
 ## 🙏 Acknowledgements
 
 - Bhagavad Gita open-source translations
