@@ -47,3 +47,66 @@
 ```python
 predict_relationship("Krishna", "Bhima")  
 # Output: "cousin" (confidence: 85%)
+```
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your_username/GitaGraph.git
+cd GitaGraph
+```
+### 2. Create a Virtual Environment (optional)
+```python
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+### 3. Install Dependencies
+```python
+pip install -r requirements.txt
+```
+### 4. Run the Jupyter Notebook
+```python
+jupyter notebook BhagwadGita.ipynb
+```
+
+
+---
+
+### 📊 2. **Visualization Section (if you use pyvis/networkx)**
+
+```markdown
+## 📊 Visualization
+
+- Interactive graphs created using **pyvis** and **networkx**
+- Highlights:
+  - Arjuna ➝ Husband ➝ Draupadi
+  - Krishna ➝ Cousin ➝ Bhima
+  - Kunti ➝ Mother ➝ Arjuna
+- Graphs saved as `.html` for easy visualization
+
+```
+## 🔮 Future Work
+
+- Expand to all 18 chapters
+- Add attention-based GNNs
+- Build a web app using Streamlit or Flask
+- Integrate with full Mahabharata character graph
+
+## 📄 License
+
+This project is licensed under the **MIT License** — feel free to use, adapt, and share!
+
+## 🙏 Acknowledgements
+
+- Bhagavad Gita open-source translations
+- Dr. Amit Majumder (NIT Jamshedpur)
+- Libraries used: spaCy, PyTorch Geometric, PyVis, NetworkX
+## 📬 Contact
+
+**Arekanti Hanook**  
+MCA (2022–2025), NIT Jamshedpur  
+📧 Email: arekantihanook123@gmail.com 
+🌐 GitHub: [@hanookarekanti](https://github.com/hanookarekanti)
+
